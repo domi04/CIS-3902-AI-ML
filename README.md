@@ -11,4 +11,5 @@ This repository contains coursework and projects for CIS 3902.
 4. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/regularization.ipynb">L1 and L2 Regularization explained</a><br>
 5. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/Data_Cleaning_Exercise.ipynb">Data Wrangling Tutorial (with the Titanic Dataset)</a><br>
 6. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/Data_Cleaning_Exercise_Class.ipynb">Data Wrangling Exercise (with the Heart Failure Prediction Dataset)</a><br>
+7. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/Mushroom_Reduced_Student.ipynb">Training a decision tree (with the mushroom dataset)</a><br>
 
