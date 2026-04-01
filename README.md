@@ -14,3 +14,4 @@ This repository contains coursework and projects for CIS 3902.
 7. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/Mushroom_Reduced_Student.ipynb">Training a decision tree (with the mushroom dataset)</a><br>
 8. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/Autoviz%20(3).ipynb">Automated Data Exploration Using AutoViz</a><br>
 9. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/random_forest_crime_assignment%20(1).ipynb">Predicting if an arrest was made using Random Forests using a subset of the Chicago Crime Dataset</a><br>
+10. <a href="https://github.com/domi04/CIS-3902-AI-ML/blob/main/cohens_kappa_ml_notebook%20(1).ipynb">Cohen's Kappa in Machine Learning</a><br>
